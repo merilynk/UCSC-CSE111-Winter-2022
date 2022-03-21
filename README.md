@@ -4,7 +4,7 @@
 This is a repository showcasing assignments from CSE111. 
 
 Assignment 3: Listmap Templates and Iterators
-Grade: 90%
+- Grade: 90%
 
 Assignment 4: Client/Server and Sockets
-Grade: 95%
+- Grade: 95%
